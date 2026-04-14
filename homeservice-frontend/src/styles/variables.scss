@@ -1,0 +1,53 @@
+// 主色调
+$primary-color: #E67E22;
+$primary-light: #F39C12;
+$primary-dark: #D35400;
+
+// 辅助色
+$secondary-color: #2C3E50;
+$secondary-light: #34495E;
+
+// 中性色
+$text-primary: #2C3E50;
+$text-secondary: #7F8C8D;
+$text-light: #BDC3C7;
+
+// 背景色
+$bg-primary: #FAFAFA;
+$bg-secondary: #FFFFFF;
+$bg-card: #FFFFFF;
+
+// 功能色
+$success-color: #27AE60;
+$warning-color: #F39C12;
+$danger-color: #E74C3C;
+$info-color: #3498DB;
+
+// 阴影
+$shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+$shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+$shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.12);
+$shadow-card: 0 4px 20px rgba(230, 126, 34, 0.1);
+
+// 圆角
+$radius-sm: 8px;
+$radius-md: 12px;
+$radius-lg: 16px;
+$radius-xl: 24px;
+
+// 字体
+$font-display: 'Playfair Display', serif;
+$font-body: 'Noto Sans SC', sans-serif;
+
+// 过渡
+$transition-fast: 0.2s ease;
+$transition-normal: 0.3s ease;
+$transition-slow: 0.5s ease;
+
+// 间距
+$spacing-xs: 4px;
+$spacing-sm: 8px;
+$spacing-md: 16px;
+$spacing-lg: 24px;
+$spacing-xl: 32px;
+$spacing-xxl: 48px;
